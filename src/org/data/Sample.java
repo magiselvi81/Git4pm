@@ -1,8 +1,13 @@
 package org.data;
 
 public class Sample {
+
+	public void m3() {
+		System.out.println("DK added code......");
+}
 	public void m2() {
 		System.out.println("TS code has added");
+	
 	}
 	
 	private void m1() {
