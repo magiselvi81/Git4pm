@@ -1,6 +1,9 @@
 package org.data;
 
 public class Sample {
+	public void m3() {
+		System.out.println("DK added code......");
+	}
 	
 	public static void main(String[] args) {
 		
